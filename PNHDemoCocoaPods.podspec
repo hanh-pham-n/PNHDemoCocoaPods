@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://github.com/hanh-pham-n/PNHDemoCocoaPods"
-  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
   s.platform       = :ios, "10.0"
   s.author       = { "hanh-pham-n" => "hanhphamn@gmail.com" }
   s.source       = { :git => "https://github.com/hanh-pham-n/PNHDemoCocoaPods.git", :tag => "#{s.version}" }
